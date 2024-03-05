@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/leptos-rs/leptos/main/docs/logos/Leptos_logo_RGB.svg" alt="Leptos Logo">
 </picture>
 
-# Leptos Spin SSR Starter Template
+# Leptos Spin Really Basic Blog Demo
 
 This is a template for use with the [Leptos][leptos] web framework and the [Spin][spin-install] WASI platform.
 
